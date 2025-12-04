@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Em_Progresso-yellow) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-Repositório destinado às atividades práticas e exercícios desenvolvidos durante o **1º Semestre** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
+Repositório destinado às atividades práticas e exercícios desenvolvidos durante o **1º Semestre** de **Desenvolvimento Front End para Web** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 O foco inicial é o aprendizado da linguagem de marcação **HTML5**, entendendo a estrutura fundamental da Web antes de avançar para estilização (CSS) e interatividade (JS).
 
